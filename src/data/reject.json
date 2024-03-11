@@ -33,5 +33,29 @@
     "id": 6,
     "item": "Zhen de meh??",
     "imageUrl": "./src/assets/reject 6.png"
+  },
+
+  {
+    "id": 7,
+    "item": "mei you ai le ma?",
+    "imageUrl": "./src/assets/reject 7.jpg"
+  },
+
+  {
+    "id": 8,
+    "item": "Why don't want?",
+    "imageUrl": "./src/assets/reject 8.gif"
+  },
+
+  {
+    "id": 9,
+    "item": "Bye",
+    "imageUrl": "./src/assets/reject 9.gif"
+  },
+
+  {
+    "id": 10,
+    "item": "okay I find others",
+    "imageUrl": "./src/assets/reject 10.gif"
   }
 ]

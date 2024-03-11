@@ -25,7 +25,7 @@ export default function Message() {
         <img src={imageUrl} className="mb-8" />
 
         <div className="chat chat-start">
-          <div className=" chat-bubble bg-pink-200 text-4xl font-bold text-orange-950 w-auto">
+          <div className=" chat-bubble bg-pink-200 text-4xl font-bold text-orange-950 w-auto hover:-translate-x-6">
             {message}
           </div>
         </div>
@@ -34,9 +34,9 @@ export default function Message() {
 
         <div className="chat chat-end">
           {" "}
-          <div className=" flex flex-auto justify-center chat-bubble bg-pink-200 w-72 px-10 py-5">
+          <div className=" flex flex-auto justify-center chat-bubble bg-pink-200 w-72 px-10 py-5 hover:translate-x-6">
             <button
-              className="btn bg-pink-800 hover:bg-pink-600 mr-10 outline outline-pink-500 text-white"
+              className="btn bg-pink-800 hover:bg-pink-600 mr-10 outline outline-pink-500 text-white "
               onClick={handleYesButton}
             >
               <svg
