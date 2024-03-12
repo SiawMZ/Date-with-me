@@ -20,42 +20,42 @@
   {
     "id": 4,
     "item": "HUH!!! Fine!",
-    "imageUrl": "./src/assets/reject 4.webp"
+    "imageUrl": "./assets/reject 4.webp"
   },
 
   {
     "id": 5,
     "item": "You Won't see me anymore",
-    "imageUrl": "./src/assets/reject 5.gif"
+    "imageUrl": "./assets/reject 5.gif"
   },
 
   {
     "id": 6,
     "item": "Zhen de meh??",
-    "imageUrl": "./src/assets/reject 6.png"
+    "imageUrl": "./assets/reject 6.png"
   },
 
   {
     "id": 7,
     "item": "mei you ai le ma?",
-    "imageUrl": "./src/assets/reject 7.jpg"
+    "imageUrl": "./assets/reject 7.jpg"
   },
 
   {
     "id": 8,
     "item": "Why don't want?",
-    "imageUrl": "./src/assets/reject 8.gif"
+    "imageUrl": "./assets/reject 8.gif"
   },
 
   {
     "id": 9,
     "item": "Bye",
-    "imageUrl": "./src/assets/reject 9.gif"
+    "imageUrl": "./assets/reject 9.gif"
   },
 
   {
     "id": 10,
     "item": "okay I find others",
-    "imageUrl": "./src/assets/reject 10.gif"
+    "imageUrl": "./assets/reject 10.gif"
   }
 ]
