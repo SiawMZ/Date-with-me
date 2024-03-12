@@ -2,7 +2,7 @@ import { useState } from "react";
 import rejectmessage from "../data/reject.json";
 
 export default function Message() {
-  const [message, setMessage] = useState("Wed Night Want to go out with me?");
+  const [message, setMessage] = useState("Wed Night dinner?");
   const [imageUrl, setImageUrl] = useState("assets/yes1.webp");
 
   const handleYesButton = () => {
