@@ -2,60 +2,60 @@
   {
     "id": 1,
     "item": "Really??",
-    "imageUrl": "./assets/sad 1.webp"
+    "imageUrl": "./sad 1.webp"
   },
 
   {
     "id": 2,
     "item": "WHY??",
-    "imageUrl": "./assets/reject 2.jpg"
+    "imageUrl": "./reject 2.jpg"
   },
 
   {
     "id": 3,
     "item": "Give you One More Chance",
-    "imageUrl": "./assets/reject 3.png"
+    "imageUrl": "./reject 3.png"
   },
 
   {
     "id": 4,
     "item": "HUH!!! Fine!",
-    "imageUrl": "./assets/reject 4.webp"
+    "imageUrl": "./reject 4.webp"
   },
 
   {
     "id": 5,
     "item": "You Won't see me anymore",
-    "imageUrl": "./assets/reject 5.gif"
+    "imageUrl": "./reject 5.gif"
   },
 
   {
     "id": 6,
     "item": "Zhen de meh??",
-    "imageUrl": "./assets/reject 6.png"
+    "imageUrl": "./reject 6.png"
   },
 
   {
     "id": 7,
     "item": "mei you ai le ma?",
-    "imageUrl": "./assets/reject 7.jpg"
+    "imageUrl": "./reject 7.jpg"
   },
 
   {
     "id": 8,
     "item": "Why don't want?",
-    "imageUrl": "./assets/reject 8.gif"
+    "imageUrl": "./reject 8.gif"
   },
 
   {
     "id": 9,
     "item": "Bye",
-    "imageUrl": "./assets/reject 9.gif"
+    "imageUrl": "./reject 9.gif"
   },
 
   {
     "id": 10,
     "item": "okay I find others",
-    "imageUrl": "./assets/reject 10.gif"
+    "imageUrl": "./reject 10.gif"
   }
 ]
