@@ -3,12 +3,12 @@ import rejectmessage from "../data/reject.json";
 
 export default function Message() {
   const [message, setMessage] = useState("Wed Night Want to go out with me?");
-  const [imageUrl, setImageUrl] = useState("./src/assets/yes1.webp");
+  const [imageUrl, setImageUrl] = useState("./assets/yes1.webp");
 
   const handleYesButton = () => {
     //setApproveMessage(true);
     setMessage("Lets Go!!");
-    setImageUrl("./src/assets/yes2.png");
+    setImageUrl("./assets/yes2.png");
   };
 
   const handleNoButton = () => {

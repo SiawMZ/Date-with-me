@@ -2,19 +2,19 @@
   {
     "id": 1,
     "item": "Really??",
-    "imageUrl": "./src/assets/sad 1.webp"
+    "imageUrl": "./assets/sad 1.webp"
   },
 
   {
     "id": 2,
     "item": "WHY??",
-    "imageUrl": "./src/assets/reject 2.jpg"
+    "imageUrl": "./assets/reject 2.jpg"
   },
 
   {
     "id": 3,
     "item": "Give you One More Chance",
-    "imageUrl": "./src/assets/reject 3.png"
+    "imageUrl": "./assets/reject 3.png"
   },
 
   {
